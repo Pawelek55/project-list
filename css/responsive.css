@@ -1,0 +1,13 @@
+@media all and (max-width: 992px){
+    .box{
+        width: 40%;
+        margin: 0 5% 10% 5%;
+    }
+}
+
+@media all and (max-width: 480px){
+    .box{
+        width: 90%;  
+        margin: 0 5% 10% 5%;
+    }
+}
